@@ -342,7 +342,7 @@ git push origin main
 
 **Instituto Federal do Tocantins - IFTO**.
 
-Aluno do **Thales Marques Rodrigues**
+Aluno: **Thales Marques Rodrigues**
 
 ## 📚 Instituição
 
