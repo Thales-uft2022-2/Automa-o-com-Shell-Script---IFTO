@@ -340,9 +340,9 @@ git push origin main
 
 ## 👨‍💻 Autor
 
-**Thales Marques Rodrigues**
+**Instituto Federal do Tocantins - IFTO**.
 
-Aluno do **Instituto Federal do Tocantins - IFTO**.
+Aluno do **Thales Marques Rodrigues**
 
 ## 📚 Instituição
 
